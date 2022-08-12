@@ -13,13 +13,20 @@ We'll use and apply:
 
 1. After writing the queries for June and December the stadistics results were:
 
+[This is an image](Resources/June_Dec_temp.png)
 
-2. 
-3.
+2. there is just a slightly difference between June and December for all the metrics included in the stadistics.
+
 
 ## Summary
 
 We added some queries and plot the results for the data retrieved from August:
+
+[This is an image](Resources/Summer_precip.png)
+
+[This is an image](Resources/Summer_temp.png)
+
+
 
 
 
